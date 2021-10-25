@@ -1,6 +1,8 @@
 # HRTF Individualization using Deep Learning
 > Material from paper _HRTF Individualization using Deep Learning_, Miccini and Spagnol, 2020
 
+**UPDATE: This repository if provided for reference only; please check our latest devopments! Take a look at [our new paper](https://itsadive.create.aau.dk/wp-content/uploads/2021/03/SIVE_2021.pdf) and [source code](https://github.com/miccio-dk/itsadive_hybrid_structural_model/) for a fully-functional HRTF individualization solution.**
+
 ## Structure
 
 - `utils_data.py`: a collection of functions for loading and processing data (HRTFs, ear pictures, anthropometric measurements, etc)
